@@ -1,18 +1,3 @@
-// // create your App component here
-// import React,{useEffect, useState} from "react";
-
-// function App(){
-//     const[]
-// useEffect(()=>{
-//     fetch('https://dog.ceo/api/breeds/image/random')
-//     .then(r=> r.json())
-//     .then(data=> console.log(data))
-// }, [])
-// }
-
-// export default App
-
-
 import React, { useState, useEffect } from "react";
 
 const App = () => {
